@@ -2,6 +2,8 @@
 
 ## 硬件和固件
 
+![Volantis](./images/device.jpg)
+
 - OBD-II芯片 -- 高级板载OBD-II芯片，支持与所有符合OBD-II的车辆通信，实时提取CAN Bus信息。
 - 4G模块 -- 内置4G模块，可以轻松访问Internet。
 - GPS模块 -- 实时跟踪车辆位置、速度和高度。
@@ -12,5 +14,3 @@
 - 状态指示 -- 板卡提供LED指示灯和蜂鸣器用于指示电源/读写等状态。
 - 以太网卡 -- 可以通过以太网登录硬件，进行应急管理。
 - Linux操作系统 -- Linux具备优秀的调度能力，健壮的TCP/IP网络协议栈，以及出色的硬件支持；Linux是真正开源的操作系统；Linux被移植到各种不同的处理器架构。
-
-![Volantis](./images/device.jpg)
