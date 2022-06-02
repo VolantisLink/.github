@@ -15,4 +15,4 @@ Volantis是一个
 - 以太网卡 -- 可以通过以太网登录硬件，进行应急管理。
 - Linux操作系统 -- Linux具备优秀的调度能力，健壮的TCP/IP网络协议栈，以及出色的硬件支持；Linux是真正开源的操作系统；Linux被移植到各种不同的处理器架构。
 
-![Volantis](./images/device.jpg)
+![Volantis](../images/device.jpg)
