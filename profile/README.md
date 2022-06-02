@@ -1,7 +1,5 @@
 # Volantis
 
-Volantis是一个
-
 ## 硬件和固件
 
 - OBD-II芯片 -- 高级板载OBD-II芯片，支持与所有符合OBD-II的车辆通信，实时提取CAN Bus信息。
