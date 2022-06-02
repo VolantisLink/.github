@@ -2,7 +2,7 @@
 
 ## 硬件和固件
 
-![Volantis](./images/device.jpg)
+![Volantis](/profile/images/device.jpg)
 
 - OBD-II芯片 -- 高级板载OBD-II芯片，支持与所有符合OBD-II的车辆通信，实时提取CAN Bus信息。
 - 4G模块 -- 内置4G模块，可以轻松访问Internet。
